@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @a-bosko
+- 👀 I’m interested in computational social science and psychology.
+- 🌱 I’m currently learning Python and R.
