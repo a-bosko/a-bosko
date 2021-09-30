@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @a-bosko
 - 👀 I’m interested in computational social science, psychology, and neuroscience.
-- 🌱 I’m currently learning Python and R.
+- 🌱 I’m currently learning Python, R, and GeoDa.
